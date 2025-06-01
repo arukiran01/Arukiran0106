@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arukiran Reddy</h1>
 <h3 align="center">Passionate About Frontend Development and Unlocking the Power of AI & ML</h3>
+<img align="right" alt="coding" width="400" src="https://preview.redd.it/i-developed-a-new-game-development-course-on-javascript-v0-kzee1r3qu7xb1.gif?width=750&auto=webp&s=6fda010cfcb520cd9899f22a06bb8b6d1a3028f2"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arukiran01&label=Profile%20views&color=0e75b6&style=flat" alt="arukiran01" /> </p>
 

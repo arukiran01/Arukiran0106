@@ -20,9 +20,6 @@
 
 - ⚡ Fun fact **I think I’m funny — but my code doesn’t always agree! 😄💻**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
